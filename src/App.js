@@ -1,6 +1,6 @@
 import Ellenah from './components/Ellenah';
 import Component from './components/Component';
-import Sheroh from './components/sheroh';
+import Sheroh from './components/Sheroh';
 import Teams from './components/teams';
   
 

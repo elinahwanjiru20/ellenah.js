@@ -1,7 +1,7 @@
-function sheroh(){
+function Sheroh(){
     return( <>
     <h4>working with react fuctions</h4> 
     </>)
 }
 
-export default sheroh 
+export default Sheroh 
