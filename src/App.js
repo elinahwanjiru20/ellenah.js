@@ -1,6 +1,8 @@
 import Ellenah from './components/Ellenah';
 import Component from './components/Component';
-import './App.css';
+import Sheroh from './components/sheroh';
+import Teams from './components/teams';
+  
 
 function App() {
   return (
@@ -8,9 +10,11 @@ function App() {
       <Ellenah props={{name: "Elinah Wanjiru"}} />
       <h3>It is good to be here.</h3>
       <p>Getting started with react.</p>
-      <Component /> 
+      <Component />
+      <Sheroh /> 
+      <Teams/>
     </div>
   );
 }
 
-export default App;
+export default App
